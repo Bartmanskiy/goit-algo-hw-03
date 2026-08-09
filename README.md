@@ -37,5 +37,3 @@ The function:
 
 GitHub: https://github.com/Bartmanskiy/goit-algo-hw-03
 
-* GitHub: `<repository-link>`
-* 
